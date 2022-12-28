@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2b4cad0e.css",
+    "main.js": "/static/js/main.69fc838b.js",
+    "static/js/787.62c95bfe.chunk.js": "/static/js/787.62c95bfe.chunk.js",
+    "static/media/fashion2022.jpg": "/static/media/fashion2022.642ae5572b9dcb8595e4.jpg",
+    "static/media/full-shot-woman-sitting-chair_23-2149220652.webp": "/static/media/full-shot-woman-sitting-chair_23-2149220652.5afdf1da4f5ebc57be88.webp",
+    "index.html": "/index.html",
+    "main.2b4cad0e.css.map": "/static/css/main.2b4cad0e.css.map",
+    "main.69fc838b.js.map": "/static/js/main.69fc838b.js.map",
+    "787.62c95bfe.chunk.js.map": "/static/js/787.62c95bfe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b4cad0e.css",
+    "static/js/main.69fc838b.js"
+  ]
+}
